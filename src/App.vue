@@ -3,6 +3,7 @@
 <template>
   <h1>You did it! - LOGIN BY THANH</h1>
   <h1>You did it! - REGISTER BY CHI - FIXED BY QC</h1>
+  <h1>TEST CHANGE SOMETHING TO TRACKING THE DEPLOYMENT</h1>
   <p>
     Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
     documentation
